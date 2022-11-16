@@ -1,0 +1,2 @@
+# CCC
+Competitive Coding Club
